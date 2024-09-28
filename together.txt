@@ -1,0 +1,1 @@
+For my Capstone project, I am pulling data from my Fantasy Football League to determine how the league draft at the beginning of every season impacts the final results, manager tendancies in the draft and if any particular draft strategy is best. (Peter O'Boyle)
